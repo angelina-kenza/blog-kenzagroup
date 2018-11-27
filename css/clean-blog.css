@@ -278,13 +278,6 @@ header.masthead .post-heading .meta a {
   color: #212529;
 }
 
-.post-preview > img {
-  float: left;
-  margin: 0px 15px 15px 0px;
-  width: 200px;
-  height: 200px;
-}
-
 .post-preview > a:focus, .post-preview > a:hover {
   text-decoration: none;
   color: #0085A1;
